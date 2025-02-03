@@ -31,7 +31,7 @@ O objetivo deste projeto é demonstrar como utilizar interrupções para captura
 ## Configuração Inicial
 1. Clone o repositório para sua máquina local:
    ```bash
-   git clone <https://github.com/YasminCruz001/Microcontroladores_GPIO_Embarcatech_Tarefa2.git>
+   git clone <https://github.com/YasminCruz001/Interrupcoes_Embarcatech.git>
 2. Abra o projeto no VS Code.
 
 ### Vídeo demonstrativo
