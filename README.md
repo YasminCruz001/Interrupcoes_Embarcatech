@@ -28,6 +28,12 @@ O objetivo deste projeto é demonstrar como utilizar interrupções para captura
 - Wokwi integrado ao VS Code (para simulação)
 - Git instalado
 
+## Configuração Inicial
+1. Clone o repositório para sua máquina local:
+   ```bash
+   git clone <https://github.com/YasminCruz001/Microcontroladores_GPIO_Embarcatech_Tarefa2.git>
+2. Abra o projeto no VS Code.
+
 ### Vídeo demonstrativo
 
 [![Vídeo de Demonstração](https://img.shields.io/badge/Assistir-Vídeo-blue)](https://drive.google.com/file/d/1F8rPZ8euf3PFMoI5qfjCSZo_gJHYV6XR/view?usp=sharing)
